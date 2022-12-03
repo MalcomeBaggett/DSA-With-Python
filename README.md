@@ -10,3 +10,5 @@ skills.
 ## Arrays and Strings
 
 ## Linked Lists
+
+## Trees
