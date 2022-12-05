@@ -9,3 +9,12 @@ def linked_list_find(head, target):
             return True
         curr = curr.next
     return False
+
+# recursive solution
+
+def recursive_list_find(head, target):
+    if head is None:
+        return False
+    if head.val == target:
+        return True
+    return recursive(head.next, target)
