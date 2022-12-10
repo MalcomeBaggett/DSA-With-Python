@@ -12,3 +12,5 @@ skills.
 ## Linked Lists
 
 ## Trees
+
+## Graphs
